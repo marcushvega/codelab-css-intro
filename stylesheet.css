@@ -1,9 +1,18 @@
 h1
 {
-margin-left: 40%;
+text-align: center;;
 }
 
-.basicInfo
-{
-  color: blue;
+p {
+  text-align: center;
+}
+/*p.street{
+  font-family: cursive;;
+} --I'm attempting to use a class(?) to style only one p element in order
+to make it different than the rest of the p element styles. It will allow
+me to do this inline in the html file, but I don't want to do it in the
+html file. Can this be done?*/
+.container img {
+  width: 100%;
+  height: auto;
 }
