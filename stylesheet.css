@@ -16,3 +16,19 @@ html file. Can this be done?*/
   width: 100%;
   height: auto;
 }
+
+/*Ask how the heck I can get this hot dog image right next to "hot dog contest p
+regardless of size of browser screen"*/
+.container#hotdog img{
+  position: relative;
+  float: right;
+  margin-right: 65%;
+  height: 50px;
+  width: 50px;
+}
+
+.container#kingNatsu img{
+  margin-left: 25%;
+  height: 45%;
+  width: 50%;
+}
