@@ -1,10 +1,17 @@
-h1
-{
-text-align: center;;
+h1 {
+text-align: center;
 }
 
 p {
   text-align: center;
+}
+
+span#town {
+  color: orange;
+}
+
+h3 {
+  line-height: 15%;
 }
 /*p.street{
   font-family: cursive;;
@@ -17,12 +24,22 @@ html file. Can this be done?*/
   height: auto;
 }
 
+.container#aboutGravystache{
+  width: 500px;
+  margin-left: 30%;
+}
+
+#aboutGravystache{
+  background-color: #660099;
+  color: #f9f7f5;
+}
+
 /*Ask how the heck I can get this hot dog image right next to "hot dog contest p
 regardless of size of browser screen"*/
 .container#hotdog img{
   position: relative;
   float: right;
-  margin-right: 65%;
+  /*margin-right: 65%;*/
   height: 50px;
   width: 50px;
 }
@@ -31,4 +48,21 @@ regardless of size of browser screen"*/
   margin-left: 25%;
   height: 45%;
   width: 50%;
+}
+
+/*#contest{
+  background-color: #add8e6;
+  padding: 10px 0px 10px;
+  width: 300px;
+}*/
+
+.uList{
+  background-color: #FFDD55;
+  margin: 20px 0px 30px;
+  width: 350px;
+  border-radius: 10px;
+  border-color: #000000;
+  border-width: 15px;
+  border-style: dashed;
+  
 }
