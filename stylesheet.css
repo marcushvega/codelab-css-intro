@@ -29,7 +29,7 @@ html file. Can this be done?*/
   margin-left: 30%;
 }
 
-#aboutGravystache{
+#aboutGravy{
   background-color: #660099;
   color: #f9f7f5;
 }
@@ -58,13 +58,13 @@ li#contest{
 
 .uList{
   background-color: #FFDD55;
-  margin: 20px 0px 30px;
+  margin: 20px 0 30px;
   width: 350px;
   border-radius: 10px;
   border-color: #000000;
   border-width: 15px;
   border-style: dashed;
-  padding: 5px 0px 10px 20px;
+  padding: 5px 0 10px 20px;
 }
 
 .uList#skills{
