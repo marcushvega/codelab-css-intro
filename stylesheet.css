@@ -50,11 +50,11 @@ regardless of size of browser screen"*/
   width: 50%;
 }
 
-/*#contest{
-  background-color: #add8e6;
-  padding: 10px 0px 10px;
+li#contest{
+  line-height: 40px;
   width: 300px;
-}*/
+  font-size: 3em;
+}
 
 .uList{
   background-color: #FFDD55;
@@ -64,5 +64,9 @@ regardless of size of browser screen"*/
   border-color: #000000;
   border-width: 15px;
   border-style: dashed;
-  
+  padding: 5px 0px 10px 20px;
+}
+
+.uList#skills{
+  line-height: 40px;
 }
