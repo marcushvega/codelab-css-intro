@@ -11,7 +11,7 @@ span#town {
 }
 
 h3 {
-  line-height: 15%;
+  line-height: .15;
 }
 /*p.street{
   font-family: cursive;;
@@ -48,10 +48,11 @@ regardless of size of browser screen"*/
   margin-left: 25%;
   height: 45%;
   width: 50%;
+
 }
 
 li#contest{
-  line-height: 40px;
+  line-height: 1.2;
   width: 300px;
   font-size: 3em;
 }
@@ -68,5 +69,5 @@ li#contest{
 }
 
 .uList#skills{
-  line-height: 40px;
+  line-height: 2;
 }
